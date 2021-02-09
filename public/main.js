@@ -1,5 +1,6 @@
 
-//converted the code to es6
+//converted the code to es6 and added switch cases instead of if else->will require follow up 
+
 document.addEventListener("DOMContentLoaded", ()=>{
     let rightcard = false;
     let tempblock,tempblock2;
@@ -117,3 +118,5 @@ addEventListener("mousemove", checkTouch, false);
 addEventListener("mouseup", doneTouch, false);
 addEventListenerMulti("touchstart", beginTouch, false, ".block");
 });
+
+//since Direct DOM Manipulation with React is not possible//->will get back for the change of logic along with components
