@@ -28,12 +28,15 @@ const LeftCard=()=>{
 
     const SearchNav=()=>{
                 const [active,setNotActive]=useState("navactive side");
-                const [nonActive,setActive]=useState("navdisabled side")
+                const [nonActive,setActive]=useState("navdisabled side");
+
+
         const ChangeNav=()=>{
 
             const Triggers=()=>{
                 const handleClick=(e)=>{
                     e.stopPropagation();
+                   
                     setActive("navactive side");
                 }
                return(
@@ -44,9 +47,11 @@ const LeftCard=()=>{
             const Actions=()=>{
                 const handleClick=(e)=>{
                     e.stopPropagation();
+                    
                     setActive("navactive side");
                 }
                 return(
+                    
                     <div id="actions" className={nonActive} onClick={handleClick}>Actions</div>
                 )
             }
@@ -54,6 +59,7 @@ const LeftCard=()=>{
             const Loggers=()=>{
                 const handleClick=(e)=>{
                     e.stopPropagation();
+                    
                     setActive("navactive side");
                 }
                return(
