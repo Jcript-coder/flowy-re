@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/%7Bflowy-re%7D/static/css/main.842fa9f5.chunk.css",
-    "main.js": "/%7Bflowy-re%7D/static/js/main.66f5e399.chunk.js",
-    "main.js.map": "/%7Bflowy-re%7D/static/js/main.66f5e399.chunk.js.map",
-    "runtime-main.js": "/%7Bflowy-re%7D/static/js/runtime-main.1baa55e1.js",
-    "runtime-main.js.map": "/%7Bflowy-re%7D/static/js/runtime-main.1baa55e1.js.map",
-    "static/js/2.87616db9.chunk.js": "/%7Bflowy-re%7D/static/js/2.87616db9.chunk.js",
-    "static/js/2.87616db9.chunk.js.map": "/%7Bflowy-re%7D/static/js/2.87616db9.chunk.js.map",
-    "static/js/3.6af89869.chunk.js": "/%7Bflowy-re%7D/static/js/3.6af89869.chunk.js",
-    "static/js/3.6af89869.chunk.js.map": "/%7Bflowy-re%7D/static/js/3.6af89869.chunk.js.map",
-    "index.html": "/%7Bflowy-re%7D/index.html",
-    "static/css/main.842fa9f5.chunk.css.map": "/%7Bflowy-re%7D/static/css/main.842fa9f5.chunk.css.map",
-    "static/js/2.87616db9.chunk.js.LICENSE.txt": "/%7Bflowy-re%7D/static/js/2.87616db9.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/%7Bflowy-re%7D/static/media/logo.6ce24c58.svg",
-    "static/media/index.css": "/%7Bflowy-re%7D/static/media/tile.fbe7a47e.png"
+    "main.css": "/flowy-re/static/css/main.30f2fd86.chunk.css",
+    "main.js": "/flowy-re/static/js/main.66f5e399.chunk.js",
+    "main.js.map": "/flowy-re/static/js/main.66f5e399.chunk.js.map",
+    "runtime-main.js": "/flowy-re/static/js/runtime-main.7ef77614.js",
+    "runtime-main.js.map": "/flowy-re/static/js/runtime-main.7ef77614.js.map",
+    "static/js/2.87616db9.chunk.js": "/flowy-re/static/js/2.87616db9.chunk.js",
+    "static/js/2.87616db9.chunk.js.map": "/flowy-re/static/js/2.87616db9.chunk.js.map",
+    "static/js/3.6af89869.chunk.js": "/flowy-re/static/js/3.6af89869.chunk.js",
+    "static/js/3.6af89869.chunk.js.map": "/flowy-re/static/js/3.6af89869.chunk.js.map",
+    "index.html": "/flowy-re/index.html",
+    "static/css/main.30f2fd86.chunk.css.map": "/flowy-re/static/css/main.30f2fd86.chunk.css.map",
+    "static/js/2.87616db9.chunk.js.LICENSE.txt": "/flowy-re/static/js/2.87616db9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/flowy-re/static/media/logo.6ce24c58.svg",
+    "static/media/index.css": "/flowy-re/static/media/tile.fbe7a47e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1baa55e1.js",
+    "static/js/runtime-main.7ef77614.js",
     "static/js/2.87616db9.chunk.js",
-    "static/css/main.842fa9f5.chunk.css",
+    "static/css/main.30f2fd86.chunk.css",
     "static/js/main.66f5e399.chunk.js"
   ]
 }
