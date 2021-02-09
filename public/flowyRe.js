@@ -1,5 +1,6 @@
 
-
+//so the main function for handling the user interactions on the website https://alyssax.com/x/flowy/-->under engine->flowy.js
+//so will need to convert this events into Synthetic events depending upon the Components
 var flowy =(canvas, grab, release, snapping, rearrange, spacing_x, spacing_y) => {
     if (!grab) {
         grab = function() {};
