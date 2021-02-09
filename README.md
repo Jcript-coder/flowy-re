@@ -1,3 +1,10 @@
+#Re-Implementation of https://github.com/alyssaxuu/flowy in Modern JS and React
+
+This project is part of an assignment provided for job interview
+and we are re-implementing the available features to create a reusable-component based UI interface in React
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +75,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
