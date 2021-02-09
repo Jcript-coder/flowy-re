@@ -2,7 +2,8 @@
 
 This project is part of an assignment provided for job interview
 and we are re-implementing the available features to create a reusable-component based UI interface in React
-
+deployed at
+http://Jcript-coder.github.io/flowy-re
 
 
 # Getting Started with Create React App
